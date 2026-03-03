@@ -2,9 +2,9 @@
 
 A modern Todo List application built using SwiftUI and SwiftData, following the MVVM architecture. The app allows users to add and delete tasks with real-time UI updates and local data persistence.
 
-<img width="300" height="601" alt="Screenshot 2026-03-03 at 8 45 03 PM" src="https://github.com/user-attachments/assets/8a6ea099-b8dd-4918-95d6-8ef09b4b6ae8" />
-<img width="300" height="601" alt="Screenshot 2026-03-03 at 8 45 43 PM" src="https://github.com/user-attachments/assets/0749077f-7f09-4cdd-aa48-7d212ef87c08" />
-<img width="300" height="601" alt="Screenshot 2026-03-03 at 8 45 56 PM" src="https://github.com/user-attachments/assets/335538e2-fad8-4a48-b496-344c45996803" />
+<img width="250" height="601" alt="Screenshot 2026-03-03 at 8 45 03 PM" src="https://github.com/user-attachments/assets/8a6ea099-b8dd-4918-95d6-8ef09b4b6ae8" />
+<img width="250" height="601" alt="Screenshot 2026-03-03 at 8 45 43 PM" src="https://github.com/user-attachments/assets/0749077f-7f09-4cdd-aa48-7d212ef87c08" />
+<img width="250" height="601" alt="Screenshot 2026-03-03 at 8 45 56 PM" src="https://github.com/user-attachments/assets/335538e2-fad8-4a48-b496-344c45996803" />
 
 
 
